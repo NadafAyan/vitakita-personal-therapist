@@ -202,9 +202,3 @@ VITAKITA was built using these incredible open-source tools and platforms:
 * **[Recharts](https://recharts.org/)** - Redefined chart library built with React and D3.
 * **[React Router](https://reactrouter.com/)** - Declarative routing for React web applications.
 * **[Lovable](https://lovable.dev/)** - For accelerating the initial UI development.
-
-Thank you for being my personal therapist, my constant support system, and the quiet inspiration behind the care put into this work.
-
-Here's to you. 🥂
-
-</div>
