@@ -203,14 +203,6 @@ VITAKITA was built using these incredible open-source tools and platforms:
 * **[React Router](https://reactrouter.com/)** - Declarative routing for React web applications.
 * **[Lovable](https://lovable.dev/)** - For accelerating the initial UI development.
 
-<div align="center">
-
-💌 Dedication
-
-This project is wholeheartedly dedicated to my best friend,
-
-[Nikita](https://github.com/Nikita-Jadhav-dev)😊✨
-
 Thank you for being my personal therapist, my constant support system, and the quiet inspiration behind the care put into this work.
 
 Here's to you. 🥂
